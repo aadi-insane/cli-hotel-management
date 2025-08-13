@@ -14,6 +14,7 @@ class Hotel
 
   def list_all_rooms
     available_rooms = rooms.select {|room| true}
+    
     if available_rooms.empty?
       puts "No rooms available at this time!"
     else
