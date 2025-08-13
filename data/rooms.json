@@ -1,0 +1,122 @@
+[
+  {
+    "number": 101,
+    "type": "single",
+    "price": 2500,
+    "available": true
+  },
+  {
+    "number": 102,
+    "type": "single",
+    "price": 2500,
+    "available": true
+  },
+  {
+    "number": 103,
+    "type": "single",
+    "price": 2500,
+    "available": false
+  },
+  {
+    "number": 104,
+    "type": "single",
+    "price": 2500,
+    "available": true
+  },
+  {
+    "number": 105,
+    "type": "single",
+    "price": 2500,
+    "available": true
+  },
+  {
+    "number": 106,
+    "type": "double",
+    "price": 4000,
+    "available": true
+  },
+  {
+    "number": 107,
+    "type": "double",
+    "price": 4000,
+    "available": true
+  },
+  {
+    "number": 108,
+    "type": "double",
+    "price": 4000,
+    "available": true
+  },
+  {
+    "number": 109,
+    "type": "double",
+    "price": 4000,
+    "available": true
+  },
+  {
+    "number": 110,
+    "type": "double",
+    "price": 4000,
+    "available": false
+  },
+  {
+    "number": 201,
+    "type": "suite",
+    "price": 7000,
+    "available": true
+  },
+  {
+    "number": 202,
+    "type": "suite",
+    "price": 7000,
+    "available": true
+  },
+  {
+    "number": 203,
+    "type": "suite",
+    "price": 7000,
+    "available": true
+  },
+  {
+    "number": 204,
+    "type": "suite",
+    "price": 7000,
+    "available": true
+  },
+  {
+    "number": 205,
+    "type": "suite",
+    "price": 7000,
+    "available": true
+  },
+  {
+    "number": 301,
+    "type": "single",
+    "price": 2600,
+    "available": true
+  },
+  {
+    "number": 302,
+    "type": "double",
+    "price": 4200,
+    "available": true
+  },
+  {
+    "number": 303,
+    "type": "suite",
+    "price": 7200,
+    "available": true
+  },
+  {
+    "number": 304,
+    "type": "double",
+    "price": 4200,
+    "available": true
+  },
+  {
+    "number": 305,
+    "type": "single",
+    "price": 2600,
+    "available": true
+  }
+]

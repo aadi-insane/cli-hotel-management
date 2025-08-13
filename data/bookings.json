@@ -1,0 +1,18 @@
+[
+  {
+    "room_number": 103,
+    "customer_name": "Aditya Aerpule",
+    "customer_phone": "9876543210",
+    "customer_email": "aditya@example.com",
+    "check_in_date": "2025-10-10",
+    "check_out_date": "2025-10-12"
+  },
+  {
+    "room_number": 110,
+    "customer_name": "Ruby Rails",
+    "customer_phone": "1472583690",
+    "customer_email": "ruby@example.com",
+    "check_in_date": "6514",
+    "check_out_date": "61654"
+  }
+]
